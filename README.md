@@ -1,7 +1,7 @@
 # Handwritten Digit Classification
 
 # Problem Statement
-To classify images of handwritten digits present in the [MNIST dataset](https://www.tensorflow.org/datasets/catalog/mnist) using various models like K Nearest Neighbour, Support Vector Machine, Logistic Regression, etc.
+To classify images of handwritten digits present in the [MNIST dataset](https://www.tensorflow.org/datasets/catalog/mnist) using various models like K Nearest Neighbour, Support Vector Machine, Logistic Regression, Convolutional Neural Network, etc.
 
 # Setup
 * Dataset used: [MNIST dataset](https://www.tensorflow.org/datasets/catalog/mnist)
@@ -9,31 +9,31 @@ To classify images of handwritten digits present in the [MNIST dataset](https://
 * No. of test samples = 10000
 
 # Results
-### K-Nearest Neighbour (KNN)
+## K-Nearest Neighbour (KNN)
 
 Test Accuracy: 96.88%
 
 ![](./img/knn.png)
 
-### Support Vector Machine (SVm)
+## Support Vector Machine (SVm)
 
 Test Accuracy: 91.60%
 ![](./img/svm.png)
 
-### Logistic Regression
+## Logistic Regression
 
 Test Accuracy: 91.00 %
 
 ![](./img/logistic_regression.png)
 
-### Decision Tree
+## Decision Tree
 
 Test Accuracy: 87.47 %
 
 ![](./img/decision_tree.png)
 
 
-### Convolution Neural Network
+## Convolution Neural Network
 
 Test Accuracy: 99.28 %
 
