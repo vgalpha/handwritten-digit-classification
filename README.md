@@ -15,7 +15,7 @@ Test Accuracy: 96.88%
 
 ![](./img/knn.png)
 
-## Support Vector Machine (SVm)
+## Support Vector Machine (SVM)
 
 Test Accuracy: 91.60%
 ![](./img/svm.png)
